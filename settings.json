@@ -1,0 +1,26 @@
+{
+    "[apex]": {},
+
+    "workbench.colorCustomizations": {
+
+        "editor.lineHighlightBorder": "#ff8750b9",
+        "editor.selectionHighlightBorder":"#ff8750b9",
+        //"editor.selectionHighlightBackground":"#ff875033"
+        // "editor.background": "#201f1f",
+        // "sideBar.background": "#201f1f",
+        // "activityBar.background": "#201f1f",
+        // "titleBar.activeBackground":  "#201f1f",
+        // "panel.background": "#201f1f",
+        // "statusBar.background": "#201f1f",
+        // "editorPane.background": "#201f1f",
+        // "input.background" : "#201f1f",
+        // "dropdown.background": "#201f1f",
+        // "menu.background":"#201f1f",
+        // "progressBar.background":"#201f1f",
+        // "tab.inactiveBackground": "#201f1f",
+        // "tab.activeBackground": "#201f1f",
+},
+"breadcrumbs.enabled": false,
+"window.titleBarStyle": "custom"
+
+}
